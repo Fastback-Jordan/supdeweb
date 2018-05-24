@@ -1,3 +1,3 @@
 <?php
-	echo 'salut';
+	echo 'salut ça va ?';
 
